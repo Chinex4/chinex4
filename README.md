@@ -242,8 +242,6 @@ Food delivery mobile app with restaurant discovery, checkout flow, real-time ord
   </a>
 </p>
 
-> Replace the second pinned repo with any actual repository you want to feature most.
-
 ---
 
 ## Experience Snapshot
