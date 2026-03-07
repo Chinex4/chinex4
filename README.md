@@ -231,14 +231,14 @@ Food delivery mobile app with restaurant discovery, checkout flow, real-time ord
 ## Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/chinex4/nexpay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinex4&repo=nexpay&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/chinex4/grovine-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinex4&repo=grovine-app&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/chinex4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinex4&repo=chinex4&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/chinex4/hexavia-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinex4&repo=hexavia-app&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
